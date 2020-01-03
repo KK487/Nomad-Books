@@ -1,0 +1,11 @@
+{
+  "item.nomadbooks.grass_page": "草頁面",
+  "item.nomadbooks.nomad_book": "游牧民族書",
+  "item.nomadbooks.nomad_page": "游牧民族頁面",
+  "item.nomadbooks.nomad_book.tooltip.height": "高度: %s",
+  "item.nomadbooks.nomad_book.tooltip.position": "已部署于: %s",
+  "item.nomadbooks.nomad_book.tooltip.dimension": "已部署在: %s",
+  "error.nomadbooks.no_space": "設置營地的空間不足!",
+  "error.nomadbooks.invalid_surface": "地面不夠寬，無法建立營地",
+  "error.nomadbooks.different_dimension": "營地位於另一個領域，無法檢索"
+}
